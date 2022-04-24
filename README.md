@@ -13,7 +13,7 @@ intervention
 The system work as follow : 
 
 <section align='center'>
-    <img src='images/schema.PNG'/>
+    <img src='images/schema.PNG', height="400"/>
 </section>
 
 ## Requirements
@@ -55,7 +55,7 @@ for file in filenames:
 Visual output of ACABS segmentation: 
 
 <section align='center'>
-    <img src='images/acabs_result_fancy.png'/>
+    <img src='images/acabs_result_fancy.png', height="500"/>
 </section>
 
 ## Extraction of key information
