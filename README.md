@@ -4,7 +4,7 @@ From a medical repport image (in french) the system extract the following inform
 
 - the patient’s name, and date of birth
 - the date of the medical intervention
-- the type of medical intervention (for example : radiology)
+- the type of medical intervention (for example : radiology)
 - the name of the doctor who performed the medical
 intervention
 - the address of the intervention
@@ -13,7 +13,7 @@ intervention
 The system work as follow : 
 
 <section align='center'>
-    <img src='images/schema.png'/>
+    <img src='images/schema.PNG'/>
 </section>
 
 ## Requirements
@@ -75,7 +75,7 @@ Use [config.cfg](config.cfg) to customize the model.
 
 - Evaluate the model : ```python3 -m spacy evaluate ./output/model-best ./dev.spacy```
 
-###Use a model
+### Use a model
 
 See [predictions.ipynb](predictions.ipynb)
 
