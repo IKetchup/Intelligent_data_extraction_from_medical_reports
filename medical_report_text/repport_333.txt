@@ -1,0 +1,35 @@
+Hirson le 10/12/2019
+M. LEDUC DANIEL
+Scanner du thorax du 10/12/2019
+
+PATIENT : Monsieur LEDUC DANIEL né le 28/07/1960
+IPP: 000124513
+
+ACCESSION NUMBER : A10008883618
+GE OPTIMA CT 540 DLP : 367,77 mGy.em Contraste : 87 cc Visipaque 320
+INDICATION :
+Bilan
+TECHNIQUE :
+Acquisition volumique sur le thorax après injection de produit de contraste iodé.
+Reconstruction parenchymateuse.
+RESULTAT :
+
+Absence de plage de condensation alvéolaire ou en verre dépoli. Pas d'image nodulaire ou
+micronodulaire suspecte. Poumons emphysémateux avec bronchectasie en particulier au
+niveau des région basale, associées à des épaississement septaux . Présence de quelques
+images en verre dépoli du lobe moyen. Pas d'épanchement pleural ou péri-cardique. Absence
+d'adénomégalie médiastino-hilaire ou axillaire. Pas d'anomalie cardiaque visible. Aorte
+thoracique de calibre normal sans athérome pariétal. Pas de signe d'embolie pulmonaire
+proximale. Pas de lésion osseuse d’allure suspecte.
+CONCLUSION DE L'EXAMEN DE Monsieur LEDUC DANIEL :
+Poumons emphysémateux avec bronchectasie et épaississement septaux
+
+Nécessité d'arrêter la prise de metformine pendant 48h.
+Prévoir un contrôle de la créatininémie dans 48h. En cas d'insuffisance rénale aiguë
+
+(élévation de la créatininémie de plus de 30%), consulter le médecin traitant.
+RADIOLOGUE SIGNATAIRE : Radiologue KELALU Brigitte , Validation électronique
+MEDECIN REQUERANT : BELKACEMI DJAOU
+
+TRACABILITE HORAIRE : Demande : 06/12/2019 15:20 - Protocole : 08/12/2019 21:52 -
+Images reçues : 10/12/2019 09:53 - Validation : 10/12/2019 12:10

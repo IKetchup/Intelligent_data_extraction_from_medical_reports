@@ -1,0 +1,30 @@
+PRESCRIPTEUR : Dr DECHAUME BARBA ROSANNE
+JLG/sd
+Le, 21 Novembre 2018
+Mademoiselle Thais GACHON
+Né(e) le 20/05/1937
+HOLOGIC Discovery Wi
+Mise en service : 07/06/2013
+PDS = 0.09 Gy.cm?
+
+*OSTEODENSITOMETRIE PAR ABSORPTIOMETRIE BIPHOTONIQUE
+Motif : Mesure de la densité osseuse chez une patiente de 81 ans.
+Site de mesure : Rachis lombaire L1-L4 avec exclusion du matériel d’ostéosynthèse et au niveau du
+poignet gauche compte tenu de prothèses de hanches.
+Valeur moyenne de la densité minérale osseuse (DMO) mesurée en g/cm? :
+La DMO lombaire est de 1.128. Au niveau du poignet (total) elle est de 0.499.
+Différence entre la valeur mesurée et densité maximale observée à 30 ans, en écart type
+(T score ) :
+
+Le T score lombaire est de +0.9. Au du poignet de -1.
+Différence avec la valeur normale au même âge et pour le même sexe, en écart type
+(Z score) :
+
+Le Z score lombaire est de +2.6. Au niveau du poignet de +2.7.
+CONCLUSION :
+Valeurs normales selon les critères de l'OMS au niveau du rachis et du poignet gauche.
+Définition OMS :
+II est rappelé que vous devez impérativement présenter ces résultats au médecin prescripteur.
+Cet examen est archivé sur notre PACS « ecs imaging » pour une durée de 5 ans.
+Notre cabinet est équipé d’un système de diffusion d’images.
+Pour plus de renseignements, contactez notre secrétariat.
