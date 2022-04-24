@@ -27,7 +27,7 @@ The system work as follow :
 
 ## Image segmentation and text extraction
 
-The image segmentation and text extraction from image of medical repport is done using the algorithm ACABS (Automatic Cropper and Block Segmenter). For more details about ACABS see the [repport](../blob/master/Intelligent_data_extraction_from_medical_reports.pdf).
+The image segmentation and text extraction from image of medical repport is done using the algorithm ACABS (Automatic Cropper and Block Segmenter). For more details about ACABS see the [repport](Intelligent_data_extraction_from_medical_reports.pdf).
 
 ### ACABS
 
@@ -60,7 +60,7 @@ Visual output of ACABS segmentation:
 
 ## Extraction of key information
 
-After using ACABS to extract the text, the data need to be annotated (like [annotated_text.json](annotated_text.json). In order to speed up the annotation use a software like  [ner-annotator](https://github.com/tecoholic/ner-annotator).
+After using ACABS to extract the text, the data need to be annotated (like [annotated_text.json](annotated_text.json)). In order to speed up the annotation use a software like  [ner-annotator](https://github.com/tecoholic/ner-annotator).
 
 Transform the data into a spacy like format using [transform_data.py](transform_data.py).
 
