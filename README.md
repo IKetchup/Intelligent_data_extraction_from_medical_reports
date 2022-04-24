@@ -1,6 +1,6 @@
 # Intelligent data extraction from medical reports
 
-From a medical repport image (in french) the system extract the following informations : 
+From a medical repport image (in french) not template based the system extract the following informations using NER and image segmentation : 
 
 - the patient’s name, and date of birth
 - the date of the medical intervention
@@ -66,7 +66,7 @@ Transform the data into a spacy like format using [transform_data.py](transform_
 
 ### Train a model
 
-Use [config.cfg](config.cfg) to customize the model.
+Use [config.cfg](config.cfg) to customize the NER model.
 
 - Verify the data : 
 ```python -m spacy debug data ./config.cfg --paths.train ./train.spacy --paths.dev ./dev.spacy```
